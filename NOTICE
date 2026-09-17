@@ -79,7 +79,7 @@ Popper
 ========================================================================
 
 Version: 2.10.2
-Source: https://github.com/floating-ui/floating-ui/tree/v2.10.2
+Source: https://github.com/popperjs/popper-core/tree/v2.10.2
 Files: static/bootstrap/js/bootstrap.bundle.js,
        static/bootstrap/js/bootstrap.bundle.min.js,
        static/bootstrap/js/bootstrap.bundle.js.map, and
